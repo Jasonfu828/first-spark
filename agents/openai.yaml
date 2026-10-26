@@ -1,0 +1,4 @@
+interface:
+  display_name: "FirstSpark｜点火计划"
+  short_description: "把项目目标转成一个可执行的小实验，明确证据、障碍与继续或停止条件"
+  default_prompt: "使用 $first-spark 帮我启动这个项目：先梳理现状与核心假设，再制定一个能获得真实反馈的行动，并写清卡住时的调整与停止条件。"
